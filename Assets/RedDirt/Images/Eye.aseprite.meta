@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 5cf651b0deacfaf4fa94cc725ba333ed
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Texture
+    7400000: EyeClosed
+    7400002: EyeOpening
+    7400004: EyeOpen
+    7400006: EyeClosing
+    21300000: Eyeprite_0
+    21300002: Eyeprite_1
+    21300004: Eyeprite_2
+    21300006: Eyeprite_3
+    21300008: Eyeprite_4
+    21300010: Eyeprite_5
+    21300012: Eyeprite_6
+    21300014: Eyeprite_7
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: bba6da1f8d0c40c429e438edefc86a83, type: 3}
+  textureSettings:
+    textureType: 8
+    pixelsPerUnit: 100
+    meshType: 1
+    extrudeEdges: 1
+    spritePivot: {x: 0.5, y: 0.5}
+    generatePhysics: 1
+    wrapMode: 1
+    filterMode: 0
+    tileSize: {x: 32, y: 32}
+    tilePadding: {x: 0, y: 0}
+    tileOffset: {x: 0, y: 0}
+  animationSettings:
+  - animationName: EyeClosed
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 0; To: 1"
+  - animationName: EyeOpening
+    loopTime: 0
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 2; To: 3"
+  - animationName: EyeOpen
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 4; To: 5"
+  - animationName: EyeClosing
+    loopTime: 0
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 6; To: 7"
+  atlas: {fileID: 2800000, guid: 5cf651b0deacfaf4fa94cc725ba333ed, type: 3}
+  importType: 0

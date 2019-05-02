@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d7c26e3c195df48a117dfa673a6e95, type: 3}
+  m_Name: OneDollarTrainingSet
+  m_EditorClassIdentifier: 
+  allPatterns:
+  - name: remember
+    points:
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    angle: NaN
+    vector:
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+  - name: down
+    points:
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    angle: NaN
+    vector:
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+  - name: stay
+    points:
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    angle: NaN
+    vector:
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+  - name: forward
+    points:
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    - {x: NaN, y: NaN}
+    angle: NaN
+    vector:
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN
+    - NaN

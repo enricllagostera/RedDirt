@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 5fed920512311d648909e6e268d76866
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Texture
+    7400000: forward
+    7400002: remember
+    7400004: down
+    7400006: stay
+    21300000: config-signsprite_0
+    21300002: config-signsprite_1
+    21300004: config-signsprite_2
+    21300006: config-signsprite_3
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: bba6da1f8d0c40c429e438edefc86a83, type: 3}
+  textureSettings:
+    textureType: 8
+    pixelsPerUnit: 32
+    meshType: 1
+    extrudeEdges: 1
+    spritePivot: {x: 0.5, y: 0.5}
+    generatePhysics: 1
+    wrapMode: 1
+    filterMode: 0
+    tileSize: {x: 32, y: 32}
+    tilePadding: {x: 0, y: 0}
+    tileOffset: {x: 0, y: 0}
+  animationSettings:
+  - animationName: forward
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 0; To: 0"
+  - animationName: remember
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 1; To: 1"
+  - animationName: down
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 2; To: 2"
+  - animationName: stay
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 3; To: 3"
+  atlas: {instanceID: 0}
+  importType: 0
