@@ -4,7 +4,9 @@
 
 This narrative game uses a magnet-based controller. You use it to retrace symbols and navigate a story through space and time.
 
-Red Dirt uses an earlier version of the tool Sensing Gestures. I'm sharing its code as an example of a more complex use of gesture-based interactions. In this case, the gestures use the magnetic fields sensors of an Android phone. It was made using Unity 2018.3.12+.
+Red Dirt uses an earlier version of the tool [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). I'm sharing its code as an example of a more complex use of gesture-based interactions. In this case, the gestures use the magnetic fields sensors of an Android phone. It was made using Unity 2018.3.12+.
+
+You can find a [discussion and account of Red Dirt's design process here](https://github.com/enricllagostera/RedDirt/wiki/Discussion). 
 
 ## Usage
 
