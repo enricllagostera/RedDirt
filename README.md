@@ -26,4 +26,4 @@ When running the game, make sure to first go in the **options** menu to record t
 
 ## Licensing
 
-Audio, visuals and narrative scripts are all licensed under an Attribution-NonCommercial 4.0 International [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. Code specific to this project is under the  LGPL-3.0 (GNU Lesser General Public License v3.0). As for libraries used, each has its own license.
+Audio, visuals and narrative scripts are all licensed under an Attribution-NonCommercial 4.0 International [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
